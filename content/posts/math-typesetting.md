@@ -1,8 +1,9 @@
 ---
 author: Julie Resch
-title: Le social commerce pour bientôt ? Ou pas ...
+title: Le social commerce fait marche arrière ...
 date: 2023-01-25
 description: Parlons un peu du social commerce et du social shopping dans notre société actuelle.
+series: ["Themes Guide"]
 ---
 
 <figure role="figure" aria-label="L'équipe du super daily">

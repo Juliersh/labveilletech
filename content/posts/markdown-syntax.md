@@ -4,16 +4,15 @@ title = "Les métiers du digital en 2023"
 date = "2023-01-24"
 description = "Quels sont les métiers en vogue dans le domaine du digital et de la tech pour cette année 2023 ?"
 tags = [
-    "markdown",
-    "css",
-    "html",
+    "technique",
+    "métiers",
+    "digital",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "emploi",
+    "digital",
 ]
 series = ["Themes Guide"]
-aliases = ["migrate-from-jekyll"]
 toc = true
 +++
 

@@ -1,11 +1,12 @@
 +++
 author = "Julie Resch"
 title = "Le SXO, l'avenir du référencement ?"
-date = "2023-01-12"
+date = "2023-01-19"
 description = "Que peut on attendre du SXO ?"
+series = ["Themes Guide"]
 tags = [
-    "markdown",
-    "text",
+    "SXO",
+    "digital",
 ]
 +++
 

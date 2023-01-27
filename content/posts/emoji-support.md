@@ -3,6 +3,7 @@ author: Julie Resch
 title: "Veille digital : recueil de souces"
 date: 2023-01-18
 description: Liste de sources en lien avec le domaine du digital
+series: ["Themes Guide"]
 ---
 
 Pour les personnes qui travaillent dans le domaine du digital, je trouve vraiment important de se tenir au courant des tendances du domaine. Il y a un vrai défi pour constamment se tenir à la page et être mis au courant des nouvelles tendances sur la toile. Il faut aussi faire attention aux endroits où l’on va chercher l’information car les «  fake news » sont aussi très largement présente de nos jours. Il faut être sur d’avoir les bonnes informations, au bon moment et être convaincu de leur fiabilité. J’ai fait quelques recherches de sources où trouver des informations en liens avec le digital marketing, l’UX/UI et l’étude des parcours utilisateurs. Je les ai regroupé ci-dessous par catégories pour pouvoir facilement m’y repérer pour m’y référer :
