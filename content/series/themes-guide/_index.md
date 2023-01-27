@@ -1,6 +1,6 @@
 +++
-title = "Themes Guide"
-description = "a series of posts about configuring and using Hugo themes"
+title = "Articles"
+description = "Articles du cours de LabVeilleTech 2023 - Julie Resch"
 header_img = "img/home-bg.jpg"
 short = true
 +++

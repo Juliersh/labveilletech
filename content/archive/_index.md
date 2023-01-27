@@ -1,6 +1,6 @@
 ---
-title: Archive
-description: archive archive archive
-header_img: /img/archive-bg.jpg
+title: Archives
+description: Archives des articles
+header_img: /img/home-bg.jpg
 short: true
 ---

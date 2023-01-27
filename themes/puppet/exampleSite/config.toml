@@ -69,7 +69,7 @@ weight = 100
 
 
 [params]
-author = "Puppet"
+author = "Puppe"
 description = "A simple and clean theme for Hugo"
 keywords = "blog,developer,personal"
 img_home = "img/home-bg.jpg"
