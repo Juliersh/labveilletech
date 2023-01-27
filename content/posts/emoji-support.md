@@ -1,6 +1,6 @@
 ---
 author: Julie Resch
-title: "Veille digital : recueil de souces"
+title: "Veille digitale : recueil de sources"
 date: 2023-01-18
 description: Liste de sources en lien avec le domaine du digital
 series: ["Themes Guide"]
