@@ -1,6 +1,6 @@
 ---
 author: Julie Resch
-title: Les entreprises et leurs campagnes de pubs
+title: Les entreprises et les campagnes de pubs
 date: 2023-01-20
 description: Analyse d'un carrousel Instagram
 series: ["Themes Guide"]
